@@ -1,7 +1,7 @@
 {
   "name": "eporner-proxy",
   "version": "1.0.0",
-  "description": "A proxy server to fetch Eporner videos.",
+  "description": "Proxy for fetching Eporner video JSON data",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
